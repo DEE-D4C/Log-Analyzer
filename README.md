@@ -1,2 +1,2 @@
 # Pass-Man
-A Secure Password Manager
+A Secure Simple Password Manager
