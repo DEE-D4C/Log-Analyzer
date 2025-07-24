@@ -1,2 +1,2 @@
-# Pass-Man
-A Secure Simple Password Manager
+#Log Analyser
+A simple log analyser 
